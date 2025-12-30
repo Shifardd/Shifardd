@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is <em>Jason Espallardo</em> and I'm a Computer Science student from Polytechnic University of the Philippines</h2>
-<p align="left">I am currently learning <strong>ASP.NET Core</strong> specifically <em>MVC</em> and <em>Web API</em></p>
+<h2 align="left">Hello World👋! My name is <em>Jason E. Espallardo</em></h2>
+<h3>I'm a Computer Science student from Polytechnic University of the Philippines</h3>
+<p align="left">- I am currently learning <strong>ASP.NET Core</strong> specifically <em>MVC</em> and <em>Web API</em></p>
 <br>
 <img align="right" height="200" width="200" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif" alt="Cat typing"/>
 
