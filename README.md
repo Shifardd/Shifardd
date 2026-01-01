@@ -31,9 +31,11 @@
 ###
 
 <div align="left">
-  <h3>Socials: </h3>
+  <h3>Accounts: </h3>
   <a href="mailto:espallardo.je@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/jason-espallardo-870913285/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/Shifard"><img src="https://camo.githubusercontent.com/4889369e51c828bd0ffd1c6fde1a04fc80f374ce5b19e39f850ce332cc3d4870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4861636b657252616e6b266c6f676f3d6861636b657272616e6b266c6162656c3d26636f6c6f723d324543383636266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="45" alt="hackerrank logo"  /></a>
+    <a href="https://tryhackme.com/p/iSpllrd"><img src="https://camo.githubusercontent.com/f4b58967f6b0345e454520e24875995c2f3660cca8881272307fceb203ad8e5c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d5472794861636b4d65266c6f676f3d7472796861636b6d65266c6162656c3d26636f6c6f723d383863633134266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="45" alt="tryhackme logo"  /></a>
 </div>
 
 ###
