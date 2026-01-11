@@ -1,6 +1,5 @@
 <h2 align="left">Hello World👋! My name is <em>Jason E. Espallardo</em></h2>
 <h3>I'm a Computer Science student from Polytechnic University of the Philippines</h3>
-<p align="left">- I am currently learning <strong>ASP.NET Core</strong> specifically <em>MVC</em> and <em>Web API</em></p>
 <br>
 <img align="right" height="200" width="200" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif" alt="Cat typing"/>
 
@@ -8,10 +7,6 @@
 
 <div align="left">
   <h3>Tools: </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
