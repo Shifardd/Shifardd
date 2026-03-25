@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-  📚 I'm currently learning Javascript Full Stack Development<br>
+  📚 I'm currently learning JavaScript Full Stack Development in the Full Stack Open course by the University of Helsinki.<br>
   🎯 Goals: Commit to at least one hour of focused, daily coding to build consistent skills.<br>
 </p>
 
@@ -47,6 +47,8 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/nodejs_original_logo_icon_146411.png" height="40" alt="nodejs logo" />
   <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" height="40" alt="express logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
